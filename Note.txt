@@ -1,0 +1,7 @@
+run `composer install` to insall libraries
+get JSON credentials file from Firebase
+get `firebaseConfig` to initialize firebase app from Firebase
+get `Key pair` from firebase for client side
+
+Read this blog to learn how to get above detail
+https://www.slidesmaker.me/blog/firebase-web-push-notification-javascript-php
